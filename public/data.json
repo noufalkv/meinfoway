@@ -1,0 +1,90 @@
+[
+    {
+        "_id": 1,
+        "name": "Toyota Yaris",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p1.jpg",
+        "price": 32000,
+        "brand": "Ford",
+        "Date": "10/10/2020",
+        "description": " Lorem ipsum dolo piditate animi cum unde."
+    },
+    {
+        "_id": 2,
+        "name": "Dodge ",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p2.jpg",
+        "price": 32000,
+        "brand": "Dodge",
+        "Date": "10/10/2020",
+        "description": " Lorem ips  illum eligendi? te animi cum unde."
+    },
+    {
+        "_id": 3,
+        "name": "Honda",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p3.jpg",
+        "price": 42000,
+        "brand": "Honda",
+        "Date": "10/10/2020",
+        "description": " Lorem ipsum   animi cum unde."
+    },
+    {
+        "_id": 4,
+        "name": "Toyota Yaris",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p4.jpg",
+        "price": 52000,
+        "brand": "Ford",
+        "Date": "10/10/2020",
+        "description": " Lorem ipsum   animi cum unde."
+    },
+    {
+        "_id": 5,
+        "name": "Hummer",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p5.jpg",
+        "price": 32000,
+        "brand": "Hummer",
+        "Date": "10/10/2020",
+        "description": " Lorem ipsum   animi cum unde."
+    },
+    {
+        "_id": 6,
+        "name": "Hummer",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p6.jpg",
+        "price": 32000,
+        "brand": "Hummer",
+        "Date": "10/10/2020",
+        "description": " Lorem ipsum   animi cum unde."
+    },
+    {
+        "_id": 7,
+        "name": "Hummer",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p1.jpg",
+        "price": 32000,
+        "brand": "Hummer",
+        "Date": "10/10/2020",
+        "description": " Lorem ipsum   animi cum unde."
+    },
+    {
+        "_id": 8,
+        "name": "Hummer",
+        "category": "model 1",
+        "year": 2000,
+        "image": "/images/p2.jpg",
+        "price": 32000,
+        "brand": "Hummer",
+        "Date": "10/10/2020",
+        "description": " Lorem ipsum   animi cum unde."
+    }
+]

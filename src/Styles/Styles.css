@@ -1,0 +1,9 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: 40px;
+  background-color: #1a1a1a;
+  color: #f8f8f8;
+}/*# sourceMappingURL=Styles.css.map */

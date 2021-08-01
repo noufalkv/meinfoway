@@ -1,0 +1,12 @@
+
+@import "../Variables/variables.scss";
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 40px;
+    background-color: $blackcolor;
+    color: $whiteColor;
+    
+}
